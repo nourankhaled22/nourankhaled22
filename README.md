@@ -22,41 +22,7 @@
 
 ---
 
-## 📌 Featured Projects  
 
-### 💊 Smart Prescription System – *Flutter + REST API + Provider*  
-- Digitized handwritten prescriptions & centralized patient medical history.  
-- Cross-platform app built with **Flutter** (Android & iOS).  
-- Integrated with **Node.js & MongoDB** backend APIs.  
-- Added AI-powered prescription recognition & chatbot.  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKxOhhkUzd3o7k0/giphy.gif" width="250" alt="Prescription App Demo"/>
-</p>  
-
----
-
-### 💬 Chat App – *Flutter + Firebase*  
-- Real-time messaging app with authentication + Firestore.  
-- Channel management (add/delete/subscribe), responsive UI.  
-- Gradient dialogs, timestamps, image sharing.  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Chat App Demo"/>
-</p>  
-
----
-
-### 🛒 E-Commerce App – *Flutter + REST API + Provider*  
-- Product listing, search, filtering, cart management, and order simulation.  
-- State management with **Provider**.  
-- Responsive UI for multiple screen sizes.  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="250" alt="E-Commerce App Demo"/>
-</p>  
-
----
 
 ## 📈 GitHub Stats  
 
@@ -72,9 +38,7 @@
 <p align="center">
   <a href="mailto:nourancplusplus@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/nourankhaled22"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-✨ *“Crafting beautiful apps with Flutter, one widget at a time.”*  
