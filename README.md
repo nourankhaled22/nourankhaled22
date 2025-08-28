@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# 👋 Hi, I'm Nouran Khaled  
+
+#  Hi, I'm Nouran Khaled  
 
 📱 **Flutter Developer | Computer Science Graduate**  
 💡 Passionate about **building cross-platform mobile applications**  
@@ -26,10 +26,7 @@
 
 ---
 
-## 📈 GitHub Stats  
-![Nouran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
 
----
 
 ## 🌍 Connect with Me  
 - 🐙 [GitHub](https://github.com/your-username)  
