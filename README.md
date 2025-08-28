@@ -10,8 +10,8 @@
 ---
 
 ## 🛠️ Skills & Tools  
-- **Languages:** Dart, JavaScript, Python (basics)  
-- **Frameworks:** Flutter, Node.js (Express.js)  
+- **Languages:** Dart, Python (basics)  
+- **Frameworks:** Flutter 
 - **Databases:** Firebase, SQLite, MySQL  
 - **Mobile Development:** REST APIs, FutureBuilder, ListView & GridView, Animations  
 - **Other Tools:** Git/GitHub, Responsive Design, Docker (basics)  
